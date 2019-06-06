@@ -4,7 +4,7 @@
 
 ![GIF](https://media.giphy.com/media/ZcRUfJqjY8bRpvSr2u/giphy.gif)
 
-## Build Setup
+### Build Setup
 
 ``` bash
 # install dependencies
